@@ -19,6 +19,7 @@ class Category_12 {
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
+	//Note: Added these back
 	class Attachment_Ghillie_Desert {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -35,7 +36,7 @@ class Category_12 {
 		sell[] = {2000,"worth"};
 	};
 
-	//Laser, NV
+	//Laser, NV. Added these back
 	class Attachment_Laser {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -71,66 +72,113 @@ class Category_12 {
 		sell[] = {2000,"worth"};
 	};
 
+	//Scopes
+	class Attachment_CCO {
+		type = "trade_items";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+	class Attachment_Holo {
+		type = "trade_items";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+	class Attachment_Kobra {
+		type = "trade_items";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+	class Attachment_SCOPED {
+		type = "trade_items";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+	class Attachment_ACOG {
+		type = "trade_items";
+		buy[] = {16000,"worth"};
+		sell[] = {8000,"worth"};
+	};
 	class Attachment_ANPVS4 {
 		type = "trade_items";
 		buy[] = {80000,"worth"};
 		sell[] = {40000,"worth"};
 	};
-
-	class Attachment_CCO {
-		type = "trade_items";
-		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
-	};
-	class Attachment_Holo {
-		type = "trade_items";
-		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
-	};
-	class Attachment_Kobra {
-		type = "trade_items";
-		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
-	};
-	class Attachment_SCOPED {
-		type = "trade_items";
-		buy[] = {12000,"worth"};
-sell[] = {6000,"worth"};
-	};
-	class Attachment_ACOG {
-		type = "trade_items";
-		buy[] = {16000,"worth"};
-sell[] = {8000,"worth"};
-	};	
+	//Note: TWS class is removed for balancing i.e.
+	//class Attachment_Tws {type = "trade_items";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class Attachment_PSO1 {
 		type = "trade_items";
 		buy[] = {16000,"worth"};
-sell[] = {8000,"worth"};
+		sell[] = {8000,"worth"};
 	};
+	//Note: Added this class back
+	//Soviet NV Scope for SVD, AKM
+	class Attachment_NSPU {
+		type = "trade_items";
+		buy[] = {80000,"worth"};
+		sell[] = {40000,"worth"};
+	};
+
+	// Suppressors
 	class Attachment_Sup9 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
+	//Note: Added these back
+	class Attachment_Sup10 {
+		type = "trade_items";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+	class Attachment_Sup45 {
+		type = "trade_items";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+
 	class Attachment_Sup545 {
 		type = "trade_items";
 		buy[] = {12000,"worth"};
-sell[] = {6000,"worth"};
+		sell[] = {6000,"worth"};
 	};
 	class Attachment_Sup556 {
 		type = "trade_items";
 		buy[] = {16000,"worth"};
-sell[] = {8000,"worth"};
+		sell[] = {8000,"worth"};
 	};
+
+	//Note: Added these back
+	class Attachment_Sup762 {
+		type = "trade_items";
+		buy[] = {16000,"worth"};
+		sell[] = {8000,"worth"};
+	};
+	class Attachment_Sup68 {
+		type = "trade_items";
+		buy[] = {16000,"worth"};
+		sell[] = {8000,"worth"};
+	};
+	class Attachment_Sup939 {
+		type = "trade_items";
+		buy[] = {16000,"worth"};
+		sell[] = {8000,"worth"};
+	};
+	class Attachment_Sup57 {
+		type = "trade_items";
+		buy[] = {16000,"worth"};
+		sell[] = {8000,"worth"};
+	};
+
+	//Grenade Launchers
 	class Attachment_GP25 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};	
 	class Attachment_M203 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 };
 

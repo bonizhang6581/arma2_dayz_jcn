@@ -5,7 +5,7 @@ class Category_12 {
 	class Attachment_Ghillie {type = "trade_items";buy[] = {200,"worth"};sell[] = {100,"worth"};};
 	class Attachment_Ghillie_Desert {type = "trade_items";buy[] = {200,"worth"};sell[] = {100,"worth"};};
 	class Attachment_Ghillie_Urban {type = "trade_items";buy[] = {-200,"worth"};sell[] = {100,"worth"};};
-	class Attachment_Ghillie_Snow {type = "trade_items";buy[] = {-200,"worth"};sell[] = {100,"worth"};};
+	class Attachment_Ghillie_Snow {type = "trade_items";buy[] 	= {-200,"worth"};sell[] = {100,"worth"};};
 	class Attachment_Laser {type = "trade_items";buy[] = {-200,"worth"};sell[] = {100,"worth"};};
 	class Attachment_NV {type = "trade_items";buy[] = {-200,"worth"};sell[] = {100,"worth"};};
 	class Attachment_FL_Pist {type = "trade_items";buy[] = {200,"worth"};sell[] = {100,"worth"};};
