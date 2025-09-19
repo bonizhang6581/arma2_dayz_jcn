@@ -1,0 +1,100 @@
+class Category_11 {
+	//Weapons
+	class AKS74_TWS_DZ {type = "trade_weapons";buy[] = {300000,"worth"};sell[] = {150000,"worth"};};
+	class ACR_WDL_TWS_DZ {type = "trade_weapons";buy[] = {280000,"worth"};sell[] = {140000,"worth"};};
+	class ACR_WDL_TWS_GL_DZ {type = "trade_weapons";buy[] = {320000,"worth"};sell[] = {160000,"worth"};};
+	class ACR_WDL_TWS_SD_DZ {type = "trade_weapons";buy[] = {360000,"worth"};sell[] = {180000,"worth"};};
+	class ACR_WDL_TWS_GL_SD_DZ {type = "trade_weapons";buy[] = {400000,"worth"};sell[] = {200000,"worth"};};
+	class ACR_BL_TWS_DZ {type = "trade_weapons";buy[] = {280000,"worth"};sell[] = {140000,"worth"};};
+	class ACR_BL_TWS_GL_DZ {type = "trade_weapons";buy[] = {320000,"worth"};sell[] = {160000,"worth"};};
+	class ACR_BL_TWS_SD_DZ {type = "trade_weapons";buy[] = {360000,"worth"};sell[] = {180000,"worth"};};
+	class ACR_BL_TWS_GL_SD_DZ {type = "trade_weapons";buy[] = {400000,"worth"};sell[] = {200000,"worth"};};
+	class ACR_DES_TWS_DZ {type = "trade_weapons";buy[] = {280000,"worth"};sell[] = {140000,"worth"};};
+	class ACR_DES_TWS_GL_DZ {type = "trade_weapons";buy[] = {320000,"worth"};sell[] = {160000,"worth"};};
+	class ACR_DES_TWS_SD_DZ {type = "trade_weapons";buy[] = {360000,"worth"};sell[] = {180000,"worth"};};
+	class ACR_DES_TWS_GL_SD_DZ {type = "trade_weapons";buy[] = {400000,"worth"};sell[] = {200000,"worth"};};
+	class ACR_SNOW_TWS_DZ {type = "trade_weapons";buy[] = {280000,"worth"};sell[] = {140000,"worth"};};
+	class ACR_SNOW_TWS_GL_DZ {type = "trade_weapons";buy[] = {320000,"worth"};sell[] = {160000,"worth"};};
+	class ACR_SNOW_TWS_SD_DZ {type = "trade_weapons";buy[] = {360000,"worth"};sell[] = {180000,"worth"};};
+	class ACR_SNOW_TWS_GL_SD_DZ {type = "trade_weapons";buy[] = {400000,"worth"};sell[] = {200000,"worth"};};
+	class m107_TWS_EP1_Small {type = "trade_weapons";buy[] = {2500000,"worth"};sell[] = {500000,"worth"};};
+	class M110_TWS_EP1 {type = "trade_weapons";buy[] = {2000000,"worth"};sell[] = {500000,"worth"};};
+	class BAF_AS50_TWS {type = "trade_weapons";buy[] = {2500000,"worth"};sell[] = {500000,"worth"};};
+	class M249_TWS_EP1_Small {type = "trade_weapons";buy[] = {1500000,"worth"};sell[] = {500000,"worth"};};
+	class RSASS_TWS_DZ {type = "trade_weapons";buy[] = {1200000,"worth"};sell[] = {500000,"worth"};};
+	class RSASS_TWS_SD_DZ {type = "trade_weapons";buy[] = {1400000,"worth"};sell[] = {500000,"worth"};};
+	class XM2010_TWS_DZ {type = "trade_weapons";buy[] = {1500000,"worth"};sell[] = {500000,"worth"};};	
+	class XM2010_TWS_SD_DZ {type = "trade_weapons";buy[] = {1750000,"worth"};sell[] = {500000,"worth"};};	
+	class MSR_TWS_DZ {type = "trade_weapons";buy[] = {1600000,"worth"};sell[] = {500000,"worth"};};	
+	class MSR_TWS_SD_DZ {type = "trade_weapons";buy[] = {1750000,"worth"};sell[] = {500000,"worth"};};	
+	class BAF_L85A2_RIS_TWS_DZ {type = "trade_weapons";buy[] = {1350000,"worth"};sell[] = {500000,"worth"};};
+	class M4A3_ACOG_GL_DZ {type = "trade_weapons";buy[] = {200000,"worth"};sell[] = {5000,"worth"};};
+	class MeleeBaseBallBat {type = "trade_weapons";buy[] = {500000,"worth"};sell[] = {250000,"worth"};};
+	class MeleeBaseballbatBarbed {type = "trade_weapons";buy[] = {550000,"worth"};sell[] = {275000,"worth"};};
+	class MeleeBaseballbatNails {type = "trade_weapons";buy[] = {600000,"worth"};sell[] = {300000,"worth"};};
+	class 10Rnd_127x99_m107 {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class 5Rnd_127x99_as50_CP {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class Revolver_Gold_DZ {type = "trade_weapons";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
+	class Colt_Anaconda_Gold_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class SVD_Gold_DZ {type = "trade_weapons";buy[] = {80000,"worth"};sell[] = {40000,"worth"};};	
+	class AKS_GOLD {type = "trade_weapons";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};	
+	class AKS_Gold_DZ {type = "trade_weapons";buy[] = {40000,"worth"};sell[] = {7500,"worth"};};	
+	class AKS_Silver_DZ {type = "trade_weapons";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};	
+	class Stinger {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300000,"worth"};};	
+	class MAAWS {type = "trade_weapons";buy[] = {250000,"worth"};sell[] = {150000,"worth"};};
+	class RPG7V {type = "trade_weapons";buy[] = {250000,"worth"};sell[] = {150000,"worth"};};	
+	class MAAWS_HEAT {type = "trade_items";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
+	class PG7V {type = "trade_items";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};	
+	class 1Rnd_Bolt_Explosive {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class HandGrenade_West {type = "trade_items";buy[] = {500,"worth"};sell[] = {250,"worth"};};
+	class HandGrenade_East {type = "trade_items";buy[] = {500,"worth"};sell[] = {250,"worth"};};
+	class 1Rnd_HE_M203 {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
+	class 1Rnd_HE_GP25 {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
+	class PipeBomb {type = "trade_items";buy[] = {150000,"worth"};sell[] = {75000,"worth"};};
+	class ItemHotwireKit {type = "trade_items";buy[] = {500000,"worth"};sell[] = {250000,"worth"};};
+	class ItemC4Charge {type = "trade_items";buy[] = {-1,"worth"};sell[] = {250000,"worth"};};
+	class ItemSuitcaseDiamonds {type = "trade_items";buy[] = {250000,"worth"};sell[] = {250000,"worth"};};
+	class ItemBookBible {type = "trade_items";buy[] = {200000,"worth"};sell[] = {200000,"worth"};};
+	class atm_kit {type = "trade_items";buy[] = {10000000,"worth"};sell[] = {500000,"worth"};};
+	
+	//Ammo
+	class 20Rnd_B_AA12_HE {type = "trade_items";buy[] = {60000,"worth"};sell[] = {30000,"worth"};};
+	class 200Rnd_762x51_M240 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};	
+	class pook_12Rnd_Grenade_Camel {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
+	class pook_1300Rnd_762x51_M60 {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
+	class 3Rnd_GyroGrenade {type = "trade_items";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
+	class 2000Rnd_762x51_M134 {type = "trade_items";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class 29Rnd_30mm_AGS30 {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 50Rnd_127x107_DSHKM {type = "trade_items";buy[] = {6000,"worth"};sell[] = {3000,"worth"};};
+	class 150Rnd_127x107_DSHKM {type = "trade_items";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
+	class 48Rnd_40mm_MK19 {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class pook_250Rnd_762x51 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class 100Rnd_127x99_M2 {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
+	// Plants
+	class ItemKiloTobacco {type = "trade_items";buy[] = {-5000,"worth"};sell[] = {5000,"worth"};};
+	class Plant_Patch_Tobacco_kit {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class ItemKiloHemp {type = "trade_items";buy[] = {-10000,"worth"};sell[] = {10000,"worth"};};
+	class Plant_Patch_Hemp_kit {type = "trade_items";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
+	//Hunting Shit
+	class FishRawSeaBass {type = "trade_items";buy[] = {10000,"worth"};sell[] = {10000,"worth"};};
+	class FishRawTrout {type = "trade_items";buy[] = {15000,"worth"};sell[] = {15000,"worth"};};
+	class FishRawTuna {type = "trade_items";buy[] = {25000,"worth"};sell[] = {25000,"worth"};};
+	class FoodRabbitRaw {type = "trade_items";buy[] = {8000,"worth"};sell[] = {8000,"worth"};};
+	class FoodBaconRaw {type = "trade_items";buy[] = {3000,"worth"};sell[] = {3000,"worth"};};
+	class FoodBeefRaw {type = "trade_items";buy[] = {4000,"worth"};sell[] = {4000,"worth"};};
+	class FoodChickenRaw {type = "trade_items";buy[] = {3000,"worth"};sell[] = {3000,"worth"};};
+	class FoodGoatRaw {type = "trade_items";buy[] = {2000,"worth"};sell[] = {2000,"worth"};};
+	class FoodMuttonRaw {type = "trade_items";buy[] = {2000,"worth"};sell[] = {2000,"worth"};};
+	//Dog Tags
+	class ItemDogTagBandit {type = "trade_items";buy[] = {-1,"worth"};sell[] = {15000,"worth"};};
+	class ItemDogTagHero {type = "trade_items";buy[] = {-1,"worth"};sell[] = {12000,"worth"};};
+	//Turrets
+	class DSHKM_MG_Static_kit {type = "trade_items";buy[] = {9000000,"worth"};sell[] = {450000,"worth"};};
+	class KORD_MG_Static_kit {type = "trade_items";buy[] = {9000000,"worth"};sell[] = {450000,"worth"};};
+	class L2A1_MG_Static_kit {type = "trade_items";buy[] = {8000000,"worth"};sell[] = {400000,"worth"};};
+	class GMG_Tripod_MG_Static_kit {type = "trade_items";buy[] = {10000000,"worth"};sell[] = {500000,"worth"};};
+	class M2_MG_Static_kit {type = "trade_items";buy[] = {8000000,"worth"};sell[] = {400000,"worth"};};
+	// CCTV
+	class cctv_kit {type = "trade_items";buy[] = {2000000,"worth"};sell[] = {500000,"worth"};};
+	class notebook_kit {type = "trade_items";buy[] = {3000000,"worth"};sell[] = {750000,"worth"};};
+};

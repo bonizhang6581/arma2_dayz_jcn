@@ -1,0 +1,15 @@
+Im not asking for anything spectacular, this is a big job and i literally just cannot be bothered going over this once again its just hell annoying. 
+
+Please follow the pattern of how the lines are written so you dont make any errors and break the config (minimal errors is okay like missing commas, as i can run it through my program for errors when you send this back to me.
+
+My ask for this, i have made it pretty easy in the WAI config already, all assault rifles go in the WAI_AssaultRifles and so on, just match up anything you have on the Epoch traders, with what can spawn at WAI, so people dont get unsellable guns and shit.
+
+Mainly, just remove all the Overwatch items. I suggest you do this first with the Current Trader lists, as they are setup properly price wise, then after go into the default trader lists, and you can easy nab any guns or whatever you want to add to the traders.
+
+Do not touch too much on my custom traders, Pro traders and Weed traders are just upgraded epoch variants to the Normal Hero and Bandit traders.
+
+but yeah, i would make it easy for yourself and remove overwatch stuff first, then add in after what you think should be added, do not change any Gem prices as the economy will dip lol and ill have angry people making tickets.
+
+and for the love of god, dont add too many zeros lol, thats how money hacks happen.
+
+Last thing, DO NOT use Ai to write out the lists, it does not work in many ways, it will either spit out half the code and break half of what it spit out anyway, or it will just tell you to fuck off cos its too much work
