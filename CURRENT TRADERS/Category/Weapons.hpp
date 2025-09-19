@@ -1,11 +1,6 @@
 //Attachments
 class Category_12 { 
-	
-	class Attachment_ANPVS4 {
-		type = "trade_items";
-		buy[] = {80000,"worth"};
-		sell[] = {40000,"worth"};
-	};
+
 	//Mosin Belt, RIS
 	class Attachment_BELT {
 		type = "trade_items";
@@ -18,7 +13,7 @@ class Category_12 {
 		sell[] = {4000,"worth"};
 	};
 
-	//Ghillies: Default, Desert, Urban, Snow
+	//Ghillies: default, desert, urban, snow
 	class Attachment_Ghillie {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -40,17 +35,46 @@ class Category_12 {
 		sell[] = {2000,"worth"};
 	};
 
-	//pistol flashlight
+	//Laser, NV
+	class Attachment_Laser {
+		type = "trade_items";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+	class Attachment_NV {
+		type = "trade_items";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+
+	//Pistol flashlights: default, mil
 	class Attachment_FL_Pist {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
-	//weapon flashlight
+	class Attachment_MFL_Pist {
+		type = "trade_items";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+
+	//Weapon flashlights: default, mil
 	class Attachment_FL {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
+	};
+	class Attachment_MFL {
+		type = "trade_items";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+
+	class Attachment_ANPVS4 {
+		type = "trade_items";
+		buy[] = {80000,"worth"};
+		sell[] = {40000,"worth"};
 	};
 
 	class Attachment_CCO {
