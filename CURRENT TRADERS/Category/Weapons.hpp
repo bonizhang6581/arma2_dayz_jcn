@@ -1,7 +1,6 @@
 //Attachments
 class Category_12 { 
 
-	//Mosin Belt, RIS
 	class Attachment_BELT {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
@@ -13,13 +12,13 @@ class Category_12 {
 		sell[] = {4000,"worth"};
 	};
 
-	//Ghillies: default, desert, urban, snow
+	//Camo Netting
 	class Attachment_Ghillie {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
-	//Note: Added these back
+	//Added back: desert, urban, snow
 	class Attachment_Ghillie_Desert {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -36,7 +35,7 @@ class Category_12 {
 		sell[] = {2000,"worth"};
 	};
 
-	//Laser, NV. Added these back
+	//Added back: Laser, NV
 	class Attachment_Laser {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -48,24 +47,26 @@ class Category_12 {
 		sell[] = {2000,"worth"};
 	};
 
-	//Pistol flashlights: default, mil
+	//Pistol Flashlights
 	class Attachment_FL_Pist {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
+	// Added back: mil
 	class Attachment_MFL_Pist {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
 
-	//Weapon flashlights: default, mil
+	//Weapon Flashlights
 	class Attachment_FL {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
+	// Added back: mil
 	class Attachment_MFL {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -100,22 +101,23 @@ class Category_12 {
 	};
 	class Attachment_ANPVS4 {
 		type = "trade_items";
-		buy[] = {80000,"worth"};
-		sell[] = {40000,"worth"};
+		buy[] = {18000,"worth"};
+		sell[] = {9000,"worth"};
 	};
-	//Note: TWS class is removed for balancing i.e.
+	//NOTE: TWS class is DISABLED for balancing
+	//UNCOMMENT the line below to ENABLE
 	//class Attachment_Tws {type = "trade_items";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class Attachment_PSO1 {
 		type = "trade_items";
 		buy[] = {16000,"worth"};
 		sell[] = {8000,"worth"};
 	};
-	//Note: Added this class back
-	//Soviet NV Scope for SVD, AKM
+	//Added back: nspu
 	class Attachment_NSPU {
+		//Soviet NV Scope for SVD, AKM
 		type = "trade_items";
-		buy[] = {80000,"worth"};
-		sell[] = {40000,"worth"};
+		buy[] = {18000,"worth"};
+		sell[] = {9000,"worth"};
 	};
 
 	// Suppressors
@@ -124,7 +126,7 @@ class Category_12 {
 		buy[] = {8000,"worth"};
 		sell[] = {4000,"worth"};
 	};
-	//Note: Added these back
+	//Added back: 10mm,45
 	class Attachment_Sup10 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
@@ -147,7 +149,7 @@ class Category_12 {
 		sell[] = {8000,"worth"};
 	};
 
-	//Note: Added these back
+	//Added back: 7.62, 6.8, 9.39, 5.7
 	class Attachment_Sup762 {
 		type = "trade_items";
 		buy[] = {16000,"worth"};
@@ -190,7 +192,7 @@ class Category_13 {
 		buy[] = {2000,"worth"};
 		sell[] = {1000,"worth"};
 	};
-	//Note: Added sd, camo_dz, camo_sd_dz
+	//Added back: sd, camo_dz, camo_sd_dz, m93r
 	class M9_SD_DZ {
 		type = "trade_weapons";
 		buy[] = {10000,"worth"};
@@ -205,13 +207,76 @@ class Category_13 {
 		type = "trade_weapons";
 		buy[] = {10000,"worth"};
 		sell[] = {5000,"worth"};
-	};	
+	};
+	class M93R_DZ {
+		type = "trade_weapons";
+		buy[] = {3000,"worth"};
+		sell[] = {1500,"worth"};
+	};
 
+	//CZ75s
+	//Added back: p_dz, d_dz, sp_dz, sp_sd_dz
+	class CZ75P_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class CZ75D_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class CZ75SP_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class CZ75SP_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+
+	//Glocks
 	class G17_DZ {
 		type = "trade_weapons";
-		buy[] = {1000,"worth"};
-		sell[] = {500,"worth"};
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
 	};
+	// Added back: fl_dz, mfl_dz, sd_dz, sd_fl, sd_mfl, g18 
+	class G17_FL_DZ {
+		type = "trade_weapons";
+		buy[] = {6000,"worth"};
+		sell[] = {3000,"worth"};
+	};
+	class G17_MFL_DZ {
+		type = "trade_weapons";
+		buy[] = {6000,"worth"};
+		sell[] = {3000,"worth"};
+	};
+	class G17_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {8000,"worth"};
+		sell[] = {4000,"worth"};
+	};
+	class G17_SD_FL_DZ {
+		type = "trade_weapons";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+	class G17_SD_MFL_DZ {
+		type = "trade_weapons";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+	class G18_DZ {
+		type = "trade_weapons";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+
+
+
 	class Makarov_DZ {
 		type = "trade_weapons";
 		buy[] = {400,"worth"};
