@@ -837,20 +837,6 @@ class Category_14 {
 		buy[] = {BASE_BUY,"worth"};
 		sell[] = {BASE_SELL,"worth"};
 	};
-	// ===== PRICE CONSTANTS =====
-#define BASE_SCOPE_BUY 8000
-#define BASE_SCOPE_SELL 4000
-
-#define BASE_BUY 2000
-#define BASE_BUY_AND_1 10000//+1 Weapon Attachment
-#define BASE_BUY_AND_2 18000//+2, etc
-#define BASE_BUY_AND_3 26000
-
-#define BASE_SELL 1000
-#define BASE_SELL_AND_1 5000
-#define BASE_SELL_AND_2 9000
-#define BASE_SELL_AND_3 13000
-// ===========================
 	//24 MP7 Classes
 	class MP7_DZ {type = "trade_weapons";buy[] = {BASE_BUY,"worth"};sell[] = {BASE_SELL,"worth"};};
 	class MP7_FL_DZ {type = "trade_weapons";buy[] = {BASE_BUY_AND_1,"worth"};sell[] = {BASE_SELL_AND_1,"worth"};};
