@@ -241,6 +241,29 @@ class Category_13 {
 		//irl gold is 14,000x more expensive than stainless, 75x more expensive than silver
 	}
 
+	//M1911s
+	class M1911_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	//Added back: 2_dz, kimber, kimber_sd
+	class M1911_2_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Kimber_M1911_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Kimber_M1911_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+
 	//M9s
 	class M9_DZ {
 		type = "trade_weapons";
@@ -367,16 +390,10 @@ class Category_13 {
 		buy[] = {400,"worth"};
 		sell[] = {200,"worth"};
 	};
-	
 	class revolver_gold_EP1 {
 		type = "trade_weapons";
 		buy[] = {6000,"worth"};
 		sell[] = {3000,"worth"};
-	};
-	class M1911_DZ {
-		type = "trade_weapons";
-		buy[] = {400,"worth"};
-		sell[] = {200,"worth"};
 	};
 
 	//Overwatch Pistols. Rosenholm Weapon Pack.
