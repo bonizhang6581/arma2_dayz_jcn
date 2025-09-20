@@ -1079,7 +1079,7 @@ class Category_16 {
 	class PDR_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
 	class PDR_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
 	class PDR_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};		
-	class Famas_DZ {type = "trade_weapons";buy[] = {400,"worth"};sell[] = {200,"worth"};};
+	class Famas_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {500,"worth"};};
 	class Famas_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class Famas_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class Famas_SD_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {600,"worth"};};
