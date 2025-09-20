@@ -827,39 +827,62 @@ class Category_14 {
 	class MP7_FL_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
 	class MP7_MFL_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
 	class MP7_SD_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
-	class MP7_SD_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
-	class MP7_SD_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
+	class MP7_SD_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MP7_SD_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
 	class MP7_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
-	class MP7_CCO_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
+	class MP7_CCO_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
 	class MP7_CCO_MFL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
-	class MP7_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
+	class MP7_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
 	class MP7_CCO_SD_FL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
 	class MP7_CCO_SD_MFL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
 	class MP7_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
-	class MP7_Holo_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
-	class MP7_Holo_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
-	class MP7_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
+	class MP7_Holo_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MP7_Holo_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MP7_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
 	class MP7_Holo_SD_FL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
 	class MP7_Holo_SD_MFL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
 	class MP7_ACOG_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
-	class MP7_ACOG_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
-	class MP7_ACOG_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
-	class MP7_ACOG_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {6000,"worth"};};
+	class MP7_ACOG_FL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MP7_ACOG_MFL_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MP7_ACOG_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
 	class MP7_ACOG_SD_FL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
 	class MP7_ACOG_SD_MFL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
-
+	//Added back: the rest of the Epoch submachine guns
+	class Kriss_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
+	class Kriss_SD_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class Kriss_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class Kriss_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class Kriss_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class Kriss_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class TMP_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
+	class TMP_SD_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class TMP_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class TMP_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class TMP_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class TMP_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};	
+	class UMP_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
+	class UMP_SD_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class UMP_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class UMP_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class UMP_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class UMP_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class P90_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
+	class P90_SD_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class P90_CCO_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class P90_CCO_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class P90_Holo_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class P90_Holo_SD_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	/* UNCOMMENT the block below to ENABLE Overwatch mod submachine classes
 	class Sa61_EP1 {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
 		sell[] = {1000,"worth"};
 	};
-	
 	class UZI_SD_EP1 {
 		type = "trade_weapons";
 		buy[] = {20000,"worth"};
 		sell[] = {10000,"worth"};
 	};
-
 	class vil_MP5SD_EOTech {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
@@ -888,53 +911,54 @@ class Category_14 {
 	class vil_Groza_SD {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_uzi {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_uzimini {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_uzimini_SD {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_uzi_c {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_uzi_SD {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_9a91 {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_9a91_c {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_9a91_csd {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_Vikhr {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
+	*/
 };
 
 //Single-shot/Shotguns
