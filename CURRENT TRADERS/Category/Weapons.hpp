@@ -275,6 +275,38 @@ class Category_13 {
 		sell[] = {6000,"worth"};
 	};
 
+	//P99. Added back: black, black_sd, green, green_sd, silver, silver_sd
+	class P99_Black_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class P99_Black_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+	class P99_Green_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class P99_Green_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+	class P99_Silver_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class P99_Silver_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+
 
 
 	class Makarov_DZ {
