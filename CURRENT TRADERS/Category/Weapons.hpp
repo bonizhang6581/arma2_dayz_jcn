@@ -479,6 +479,7 @@ class Category_13 {
 		sell[] = {14000,"worth"};
 	};
 
+	/* UNCOMMENT the block below to ENABLE Overwatch mod classes
 	//Elite Preview 1. Arma2:OA expansion asset
 	class revolver_gold_EP1 {
 		type = "trade_weapons";
@@ -683,7 +684,7 @@ class Category_13 {
 		sell[] = {10000,"worth"};
 	};
 
-	//Overwatch Pistols
+	//OVERWATCH Pistols
 	class vil_B_HP {
 		type = "trade_weapons";
 		buy[] = {20000,"worth"};
@@ -728,7 +729,8 @@ class Category_13 {
 		type = "trade_weapons";
 		buy[] = {40000,"worth"};
 		sell[] = {20000,"worth"};
-	};		
+	};
+	*/
 };
 
 //Submachine Guns
