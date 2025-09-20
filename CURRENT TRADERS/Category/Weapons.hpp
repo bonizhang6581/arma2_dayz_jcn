@@ -330,7 +330,7 @@ class Category_13 {
 		sell[] = {6000,"worth"};
 	};
 
-	//P99. Added back: black, black_sd, green, green_sd, silver, silver_sd
+	//P99s. Added back: black, black_sd, green, green_sd, silver, silver_sd
 	class P99_Black_DZ {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
@@ -353,16 +353,14 @@ class Category_13 {
 	};
 	class P99_Silver_DZ {
 		type = "trade_weapons";
-		buy[] = {2000,"worth"};
-		sell[] = {1000,"worth"};
+		buy[] = {20000,"worth"};
+		sell[] = {10000,"worth"};
 	};
 	class P99_Silver_SD_DZ {
 		type = "trade_weapons";
-		buy[] = {10000,"worth"};
-		sell[] = {5000,"worth"};
+		buy[] = {28000,"worth"};
+		sell[] = {14000,"worth"};
 	};
-
-
 
 	class Makarov_DZ {
 		type = "trade_weapons";
@@ -380,6 +378,8 @@ class Category_13 {
 		buy[] = {400,"worth"};
 		sell[] = {200,"worth"};
 	};
+
+	//Overwatch Pistols. Rosenholm Weapon Pack.
 	class RH_deagle {
 		type = "trade_weapons";
 		buy[] = {80000,"worth"};
@@ -575,6 +575,8 @@ class Category_13 {
 		buy[] = {20000,"worth"};
 		sell[] = {10000,"worth"};
 	};
+
+	//Overwatch Pistols
 	class vil_B_HP {
 		type = "trade_weapons";
 		buy[] = {20000,"worth"};
