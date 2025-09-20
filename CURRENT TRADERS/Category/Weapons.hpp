@@ -264,6 +264,18 @@ class Category_13 {
 		sell[] = {5000,"worth"};
 	};
 
+	// USPs. Added back: Epoch default, sd
+	class USP_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class USP_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+
 	//M9s
 	class M9_DZ {
 		type = "trade_weapons";
@@ -384,6 +396,8 @@ class Category_13 {
 		buy[] = {28000,"worth"};
 		sell[] = {14000,"worth"};
 	};
+
+
 
 	class Makarov_DZ {
 		type = "trade_weapons";
