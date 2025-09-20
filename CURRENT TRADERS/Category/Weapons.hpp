@@ -735,55 +735,79 @@ class Category_13 {
 
 //Submachine Guns
 class Category_14 {
-	class Sa61_EP1 {
+
+	//Added back: sa, mac, tec, pdw_sd
+	class Sa61_DZ {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Mac10_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class TEC9_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
 	};
 	class PDW_DZ {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
+	class PDW_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {1000,"worth"};
+		sell[] = {500,"worth"};
+	};
+
+	class Sa61_EP1 {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	
 	class UZI_SD_EP1 {
 		type = "trade_weapons";
 		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
+		sell[] = {10000,"worth"};
 	};
 	class MP5_DZ {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
+		sell[] = {1000,"worth"};
 	};
 	class Bizon_DZ {
 		type = "trade_weapons";
 		buy[] = {16000,"worth"};
-sell[] = {8000,"worth"};
+		sell[] = {8000,"worth"};
 	};
 	class vil_MP5SD_EOTech {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_MP5_EOTech {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_Groza_HG {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_Groza_GL {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_Groza_SC {
 		type = "trade_weapons";
 		buy[] = {8000,"worth"};
-sell[] = {4000,"worth"};
+		sell[] = {4000,"worth"};
 	};
 	class vil_Groza_SD {
 		type = "trade_weapons";
