@@ -1031,7 +1031,7 @@ class Category_15 {
 //Assault Rifles
 class Category_16 {
 
-	class KAC_PDW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {200,"worth"};};
+	class KAC_PDW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
 	class KAC_PDW_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class KAC_PDW_HOLO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
 	class KAC_PDW_ACOG_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {600,"worth"};};
