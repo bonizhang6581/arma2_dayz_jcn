@@ -186,6 +186,61 @@ class Category_12 {
 
 //Pistols
 class Category_13 {
+
+	class Revolver_DZ {
+		type = "trade_weapons";
+		buy[] = {400,"worth"};
+		sell[] = {200,"worth"};
+	};
+	//Added back: mk2, colt_rev, anaconda, bull, python, deagle, modern, silver, gold
+	class Ruger_MK2_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Colt_Revolver_DZ {
+		type = "trade_weapons";
+		buy[] = {500,"worth"};
+		sell[] = {250,"worth"};
+	};
+	class Colt_Anaconda_DZ {
+		type = "trade_weapons";
+		buy[] = {5000,"worth"};
+		sell[] = {2500,"worth"};
+	};
+	class Colt_Bull_DZ {
+		type = "trade_weapons";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+	class Colt_Python_DZ {
+		type = "trade_weapons";
+		buy[] = {6000,"worth"};
+		sell[] = {3000,"worth"};
+	};
+	class DesertEagle_DZ {
+		type = "trade_weapons";
+		buy[] = {5000,"worth"};
+		sell[] = {2500,"worth"};
+	};
+	class DesertEagle_Modern_DZ {
+		type = "trade_weapons";
+		buy[] = {5000,"worth"};
+		sell[] = {2500,"worth"};
+	};
+	class DesertEagle_Silver_DZ {
+		type = "trade_weapons";
+		buy[] = {20000,"worth"};
+		sell[] = {10000,"worth"};
+		//irl silver is 30-60x more expensive than stainless steel
+	};
+	class DesertEagle_Gold_DZ {
+		type = "trade_weapons";
+		buy[] = {200000,"worth"};
+		sell[] = {100000,"worth"};
+		//irl gold is 14,000x more expensive than stainless, 75x more expensive than silver
+	}
+
 	//M9s
 	class M9_DZ {
 		type = "trade_weapons";
@@ -314,11 +369,7 @@ class Category_13 {
 		buy[] = {400,"worth"};
 		sell[] = {200,"worth"};
 	};
-	class Revolver_DZ {
-		type = "trade_weapons";
-		buy[] = {400,"worth"};
-		sell[] = {200,"worth"};
-	};
+	
 	class revolver_gold_EP1 {
 		type = "trade_weapons";
 		buy[] = {6000,"worth"};
