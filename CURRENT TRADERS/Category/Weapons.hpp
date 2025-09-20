@@ -963,111 +963,69 @@ class Category_14 {
 
 //Single-shot/Shotguns
 class Category_15 {
+	class Crossbow_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
+	class Crossbow_CCO_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Crossbow_FL_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Crossbow_MFL_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Crossbow_Scope_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Crossbow_CCO_FL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Crossbow_Scope_FL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Crossbow_CCO_MFL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Crossbow_Scope_MFL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class RedRyder_DZ {type = "trade_weapons";buy[] = {100,"worth"};sell[] = {50,"worth"};};
+	class MR43_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
+	class Winchester1866_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {200,"worth"};};
+	class M1014_DZ {type = "trade_weapons";buy[] = {800,"worth"};sell[] = {400,"worth"};};
+	class M1014_CCO_DZ {type = "trade_weapons";buy[] = {8800,"worth"};sell[] = {4400,"worth"};};
+	class M1014_Holo_DZ {type = "trade_weapons";buy[] = {8800,"worth"};sell[] = {4400,"worth"};};
+	class Remington870_DZ {type = "trade_weapons";buy[] = {800,"worth"};sell[] = {400,"worth"};};
+	class Remington870_FL_DZ {type = "trade_weapons";buy[] = {8800,"worth"};sell[] = {4400,"worth"};};
+	class Remington870_MFL_DZ {type = "trade_weapons";buy[] = {8800,"worth"};sell[] = {4400,"worth"};};
+	class LeeEnfield_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
+	class Mosin_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
+	class Mosin_FL_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Mosin_MFL_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Mosin_Belt_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Mosin_Belt_FL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Mosin_Belt_MFL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Mosin_PU_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class Mosin_PU_FL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Mosin_PU_MFL_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Mosin_PU_Belt_DZ {type = "trade_weapons";buy[] = {17000,"worth"};sell[] = {8500,"worth"};};
+	class Mosin_PU_Belt_FL_DZ {type = "trade_weapons";buy[] = {25000,"worth"};sell[] = {12500,"worth"};};
+	class Mosin_PU_Belt_MFL_DZ {type = "trade_weapons";buy[] = {25000,"worth"};sell[] = {12500,"worth"};};
+	/* UNCOMMENT the block below to ENABLE Overwatch mod single-shot gun classes
 	class AA12_DZ {
 		type = "trade_weapons";
 		buy[] = {30000,"worth"};
-sell[] = {15000,"worth"};
-	};
-	class Crossbow_DZ {
-		type = "trade_weapons";
-		buy[] = {200,"worth"};
-sell[] = {100,"worth"};
-	};
-	class RedRyder {
-		type = "trade_weapons";
-		buy[] = {200,"worth"};
-sell[] = {100,"worth"};
-	};
-	class MR43_DZ {
-		type = "trade_weapons";
-		buy[] = {200,"worth"};
-sell[] = {100,"worth"};
-	};
-	class Winchester1866_DZ {
-		type = "trade_weapons";
-		buy[] = {400,"worth"};
-sell[] = {200,"worth"};
-	};
-	class M1014_DZ {
-		type = "trade_weapons";
-		buy[] = {6000,"worth"};
-sell[] = {3000,"worth"};
-	};
-	class Remington870_DZ {
-		type = "trade_weapons";
-		buy[] = {4000,"worth"};
-sell[] = {2000,"worth"};
-	};
-	class LeeEnfield_DZ {
-		type = "trade_weapons";
-		buy[] = {400,"worth"};
-sell[] = {200,"worth"};
-	};
-	class Mosin_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
+		sell[] = {15000,"worth"};
 	};
 	class Mosin_BR_DZ {
 		type = "trade_weapons";
 		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_Belt_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_Belt_FL_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_FL_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_PU_Belt_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_PU_Belt_FL_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_PU_FL_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
-	};
-	class Mosin_PU_DZ {
-		type = "trade_weapons";
-		buy[] = {800,"worth"};
-sell[] = {400,"worth"};
+		sell[] = {400,"worth"};
 	};
 	class gms_k98 {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
+		sell[] = {1000,"worth"};
 	};
 	class gms_k98zf39 {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
+		sell[] = {1000,"worth"};
 	};
 	class gms_k98_knife {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
+		sell[] = {1000,"worth"};
 	};
 	class gms_k98_rg {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
-sell[] = {1000,"worth"};
-	};	
+		sell[] = {1000,"worth"};
+	};
+	*/
 };
 
 //Assault Rifles
