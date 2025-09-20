@@ -125,6 +125,7 @@ class Category_12 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
 		sell[] = {4000,"worth"};
+		//irl 1.1-1.7x more expensive than the pistol.
 	};
 	//Added back: 10mm,45
 	class Attachment_Sup10 {
@@ -187,6 +188,7 @@ class Category_12 {
 //Pistols
 class Category_13 {
 
+	//EPOCH mod
 	class Revolver_DZ {
 		type = "trade_weapons";
 		buy[] = {400,"worth"};
@@ -271,6 +273,86 @@ class Category_13 {
 		sell[] = {1000,"worth"};
 	};
 	class USP_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {10000,"worth"};
+		sell[] = {5000,"worth"};
+	};
+
+	//Added back: ppk, tt33
+	class PPK_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Tokarew_TT33_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class Makarov_DZ {
+		type = "trade_weapons";
+		buy[] = {400,"worth"};
+		sell[] = {200,"worth"};
+	};
+	//Added back: rov_sd, aps, aps_sd, p38, hp
+	class Makarov_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {8400,"worth"};
+		sell[] = {4200,"worth"};
+	};
+	class APS_DZ {
+		type = "trade_weapons";
+		buy[] = {400,"worth"};
+		sell[] = {200,"worth"};
+	};
+	class APS_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {8400,"worth"};
+		sell[] = {4200,"worth"};
+	};
+	class P38_DZ {
+		type = "trade_weapons";
+		buy[] = {800,"worth"};
+		sell[] = {400,"worth"};
+		//Walther 9mm Double Action(DA)
+	};
+	class BrowningHP_DZ {
+		type = "trade_weapons";
+		buy[] = {100,"worth"};
+		sell[] = {50,"worth"};
+		//High Power 9mm Single Action(SA)
+	};
+
+	//MK22 Mod 0s. Added back: default, sd, 2, 2_sd
+	class MK22_DZ {
+		type = "trade_weapons";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+		//9mm subsonic(SA/DA)
+	};
+	class MK22_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+	class MK22_2_DZ {
+		type = "trade_weapons";
+		buy[] = {4000,"worth"};
+		sell[] = {2000,"worth"};
+	};
+	class MK22_2_SD_DZ {
+		type = "trade_weapons";
+		buy[] = {12000,"worth"};
+		sell[] = {6000,"worth"};
+	};
+
+	//Added back: P226, silver
+	class P226_DZ {
+		type = "trade_weapons";
+		buy[] = {2000,"worth"};
+		sell[] = {1000,"worth"};
+	};
+	class P226_Silver_DZ {
 		type = "trade_weapons";
 		buy[] = {10000,"worth"};
 		sell[] = {5000,"worth"};
@@ -397,20 +479,14 @@ class Category_13 {
 		sell[] = {14000,"worth"};
 	};
 
-
-
-	class Makarov_DZ {
-		type = "trade_weapons";
-		buy[] = {400,"worth"};
-		sell[] = {200,"worth"};
-	};
+	//Elite Preview 1. Arma2:OA expansion asset
 	class revolver_gold_EP1 {
 		type = "trade_weapons";
 		buy[] = {6000,"worth"};
 		sell[] = {3000,"worth"};
 	};
 
-	//Overwatch Pistols. Rosenholm Weapon Pack.
+	//OVERWATCH Rosenholm Weapon Pack Mod
 	class RH_deagle {
 		type = "trade_weapons";
 		buy[] = {80000,"worth"};
