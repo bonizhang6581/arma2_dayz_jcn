@@ -31,6 +31,36 @@ class Category_19 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
+    class 8Rnd_762x25_TT33 {
+        type = "trade_items";
+        buy[] = {400,"worth"};
+        sell[] = {200,"worth"};
+    };
+	class 8Rnd_9x19_P38 {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
+	class 13Rnd_9x19_BHP {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
+	class 15Rnd_9x19_P226 {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
+	class 8Rnd_9x19_MK22 {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
+	class 8Rnd_9x19_MK22SD {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
     class 15Rnd_9x19_M9 {
         type = "trade_items";
         buy[] = {1000,"worth"};
