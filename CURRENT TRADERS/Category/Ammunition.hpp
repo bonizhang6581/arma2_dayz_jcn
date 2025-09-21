@@ -160,6 +160,12 @@ class Category_19 {
 
 //Submachine Gun Ammo
 class Category_20 {
+
+    class 10Rnd_B_765x17_Ball {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
     class 20Rnd_B_765x17_Ball {
         type = "trade_items";
         buy[] = {2000,"worth"};
@@ -184,6 +190,31 @@ class Category_20 {
         type = "trade_items";
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
+    };
+    class 30Rnd_9x19_TMP {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
+	class 30Rnd_9x19_TMPSD {
+        type = "trade_items";
+        buy[] = {4000,"worth"};
+        sell[] = {2000,"worth"};
+    };
+	class 32Rnd_9x19_STEN {
+        type = "trade_items";
+        buy[] = {2200,"worth"};
+        sell[] = {1100,"worth"};
+    };
+	class 32Rnd_9x19_MAT49 {
+        type = "trade_items";
+        buy[] = {2200,"worth"};
+        sell[] = {1100,"worth"};
+    };
+	class 70Rnd_9x19_M31 {
+        type = "trade_items";
+        buy[] = {4400,"worth"};
+        sell[] = {2200,"worth"};
     };
     class 64Rnd_9x19_Bizon {
         type = "trade_items";
