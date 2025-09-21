@@ -366,6 +366,16 @@ class Category_22 {
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
     };
+    class 60Rnd_556x45_Stanag_Taped {
+        type = "trade_items";
+        buy[] = {800,"worth"};
+        sell[] = {400,"worth"};
+    };
+	class 60Rnd_556x45_StanagSD_Taped {
+        type = "trade_items";
+        buy[] = {8000,"worth"};
+        sell[] = {4000,"worth"};
+    };
     class 30Rnd_556x45_G36 {
         type = "trade_items";
         buy[] = {400,"worth"};
