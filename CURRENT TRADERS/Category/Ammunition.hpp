@@ -85,7 +85,7 @@ class Category_19 {
         type = "trade_items";
         buy[] = {1000,"worth"};
         sell[] = {500,"worth"};
-    }; //CZ Shadow Phantom Pistol
+    };//CZ Shadow Phantom Pistol
 	class 18Rnd_9x19_PhantomSD {
         type = "trade_items";
         buy[] = {2000,"worth"};
@@ -226,10 +226,45 @@ class Category_20 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
-    class 20Rnd_9x39_SP5_VSS {
+    class 40Rnd_46x30_mp7 {
+        type = "trade_items";
+        buy[] = {10000,"worth"};
+        sell[] = {5000,"worth"};
+    };
+	class 40Rnd_46x30_sd_mp7 {
+        type = "trade_items";
+        buy[] = {20000,"worth"};
+        sell[] = {10000,"worth"};
+    };
+	class 33Rnd_45ACP_KRISS {
+        type = "trade_items";
+        buy[] = {7500,"worth"};
+        sell[] = {3750,"worth"};
+    };
+	class 33Rnd_45ACP_KRISSSD {
+        type = "trade_items";
+        buy[] = {10500,"worth"};
+        sell[] = {5250,"worth"};
+    };
+	class 25Rnd_45ACP_UMP {
         type = "trade_items";
         buy[] = {5000,"worth"};
         sell[] = {2500,"worth"};
+    };
+	class 25Rnd_45ACP_UMPSD {
+        type = "trade_items";
+        buy[] = {7500,"worth"};
+        sell[] = {3750,"worth"};
+    };
+	class 50Rnd_57x28_P90 {
+        type = "trade_items";
+        buy[] = {12500,"worth"};
+        sell[] = {6250,"worth"};
+    };
+	class 50Rnd_57x28_P90SD {
+        type = "trade_items";
+        buy[] = {25000,"worth"};
+        sell[] = {12500,"worth"};
     };
 };
 
