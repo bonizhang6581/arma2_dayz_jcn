@@ -1252,24 +1252,22 @@ class Category_16 {
 	class L85A2_ACOG_SD_DZ {type = "trade_weapons";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
 	class L85A2_ACOG_SD_FL_DZ {type = "trade_weapons";buy[] = {38000,"worth"};sell[] = {19000,"worth"};};
 	class L85A2_ACOG_SD_MFL_DZ {type = "trade_weapons";buy[] = {38000,"worth"};sell[] = {19000,"worth"};};
-	class Sa58V_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
-	class SA58_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
-	class SA58_RIS_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300,"worth"};};
-	class SA58_RIS_FL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {400,"worth"};};
-	class SA58_RIS_MFL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class SA58_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class SA58_CCO_FL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {600,"worth"};};
-	class SA58_CCO_MFL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class SA58_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class SA58_Holo_FL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {600,"worth"};};
-	class SA58_Holo_MFL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class SA58_ACOG_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class SA58_ACOG_FL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {800,"worth"};};
-	class SA58_ACOG_MFL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {900,"worth"};};
-	//Desert camo no attachment support
-	class Sa58V_Camo_CCO_DZ {type = "trade_weapons";buy[] = {400,"worth"};sell[] = {200,"worth"};};
-	//Desert camo no attachment support
-	class Sa58V_Camo_ACOG_DZ {type = "trade_weapons";buy[] = {800,"worth"};sell[] = {400,"worth"};};
+	class Sa58V_DZ {type = "trade_weapons";buy[] = {11500,"worth"};sell[] = {5750,"worth"};};
+	class SA58_DZ {type = "trade_weapons";buy[] = {11000,"worth"};sell[] = {5500,"worth"};};
+	class SA58_RIS_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class SA58_RIS_FL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_RIS_MFL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_CCO_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class SA58_CCO_FL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_CCO_MFL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_Holo_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class SA58_Holo_FL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_Holo_MFL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_ACOG_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class SA58_ACOG_FL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class SA58_ACOG_MFL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
+	class Sa58V_Camo_CCO_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};//Desert camo no attachment support
+	class Sa58V_Camo_ACOG_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};//Desert camo no attachment support
 	class AKS_DZ {type = "trade_weapons";buy[] = {500,"worth"};sell[] = {250,"worth"};};
 	class AKM_DZ {type = "trade_weapons";buy[] = {600,"worth"};sell[] = {300,"worth"};};
 	class AKM_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
@@ -1487,7 +1485,8 @@ class Category_16 {
 	class ACR_SNOW_NV_GL_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
 	class ACR_SNOW_NV_SD_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
 	class ACR_SNOW_NV_GL_SD_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
-		/*UNCOMMENT the block below to ENABLE Overwatch mod assault rifle classes
+
+	/*UNCOMMENT the block below to ENABLE Overwatch mod assault rifle classes
 	class vil_ak12 {
 		type = "trade_weapons";
 		buy[] = {12000,"worth"};
