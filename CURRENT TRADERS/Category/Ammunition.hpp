@@ -16,6 +16,21 @@ class Category_19 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
+    class 10Rnd_22lfB_RUGERMK2 {
+        type = "trade_items";
+        buy[] = {200,"worth"};
+        sell[] = {100,"worth"};
+    };
+    class 20Rnd_9x18_APS {
+        type = "trade_items";
+        buy[] = {200,"worth"};
+        sell[] = {100,"worth"};
+    };
+    class 20Rnd_9x18_APSSD {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
     class 15Rnd_9x19_M9 {
         type = "trade_items";
         buy[] = {1000,"worth"};
