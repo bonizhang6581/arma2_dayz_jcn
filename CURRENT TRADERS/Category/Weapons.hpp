@@ -1268,10 +1268,10 @@ class Category_16 {
 	class SA58_ACOG_MFL_DZ {type = "trade_weapons";buy[] = {27000,"worth"};sell[] = {13500,"worth"};};
 	class Sa58V_Camo_CCO_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};//Desert camo no attachment support
 	class Sa58V_Camo_ACOG_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};//Desert camo no attachment support
-	class AKS_DZ {type = "trade_weapons";buy[] = {500,"worth"};sell[] = {250,"worth"};};
-	class AKM_DZ {type = "trade_weapons";buy[] = {600,"worth"};sell[] = {300,"worth"};};
-	class AKM_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class AKM_PSO1_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
+	class AKS_DZ {type = "trade_weapons";buy[] = {6500,"worth"};sell[] = {3250,"worth"};};
+	class AKM_DZ {type = "trade_weapons";buy[] = {9500,"worth"};sell[] = {4750,"worth"};};
+	class AKM_Kobra_DZ {type = "trade_weapons";buy[] = {17500,"worth"};sell[] = {8750,"worth"};};
+	class AKM_PSO1_DZ {type = "trade_weapons";buy[] = {33500,"worth"};sell[] = {16750,"worth"};};
 	class RK95_DZ {type = "trade_weapons";buy[] = {600,"worth"};sell[] = {300,"worth"};};
 	class RK95_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
 	class RK95_ACOG_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
