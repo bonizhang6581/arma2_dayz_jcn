@@ -116,15 +116,45 @@ class Category_19 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
-    class 6Rnd_45ACP {
-        type = "trade_items";
-        buy[] = {200,"worth"};
-        sell[] = {100,"worth"};
-    };
     class 7Rnd_45ACP_1911 {
         type = "trade_items";
-        buy[] = {200,"worth"};
-        sell[] = {100,"worth"};
+        buy[] = {1200,"worth"};
+        sell[] = {600,"worth"};
+    };
+    class 7Rnd_45ACP_1911SD {
+        type = "trade_items";
+        buy[] = {3200,"worth"};
+        sell[] = {1600,"worth"};
+    };
+    class 15Rnd_45ACP_USP {
+        type = "trade_items";
+        buy[] = {2400,"worth"};
+        sell[] = {1200,"worth"};
+    };
+	class 15Rnd_45ACP_USPSD {
+        type = "trade_items";
+        buy[] = {4400,"worth"};
+        sell[] = {2200,"worth"};
+    };
+	class 7Rnd_50AE_Deagle {
+        type = "trade_items";
+        buy[] = {4800,"worth"};
+        sell[] = {2400,"worth"};
+    };
+    class 6Rnd_45ACP {
+        type = "trade_items";
+        buy[] = {1028,"worth"};
+        sell[] = {514,"worth"};
+    };
+    class 6Rnd_44Magnum {
+        type = "trade_items";
+        buy[] = {1850,"worth"};
+        sell[] = {925,"worth"};
+    };
+	class 6Rnd_357Magnum {
+        type = "trade_items";
+        buy[] = {1440,"worth"};
+        sell[] = {720,"worth"};
     };
 };
 
