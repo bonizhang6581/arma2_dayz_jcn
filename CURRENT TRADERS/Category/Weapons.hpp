@@ -1295,8 +1295,8 @@ class Category_16 {
 	class AKS74U_Kobra_DZ {type = "trade_weapons";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
 	class AKS74U_SD_DZ {type = "trade_weapons";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
 	class AKS74U_Kobra_SD_DZ {type = "trade_weapons";buy[] = {23000,"worth"};sell[] = {11500,"worth"};};
-	class AKS74_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
-	class AKS74_Kobra_DZ {type = "trade_weapons";buy[] = {7000,"worth"};sell[] = {3500,"worth"};};
+	class AKS74_DZ {type = "trade_weapons";buy[] = {7000,"worth"};sell[] = {3500,"worth"};};
+	class AKS74_Kobra_DZ {type = "trade_weapons";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};
 	class AKS74_PSO1_DZ {type = "trade_weapons";buy[] = {31000,"worth"};sell[] = {15500,"worth"};};	
 	class AKS74_NSPU_DZ {type = "trade_weapons";buy[] = {33000,"worth"};sell[] = {16500,"worth"};};
 	class AKS74_TWS_DZ {type = "trade_weapons";buy[] = {1000000,"worth"};sell[] = {500000,"worth"};};		
