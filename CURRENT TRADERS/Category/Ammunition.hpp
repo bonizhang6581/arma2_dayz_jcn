@@ -462,6 +462,11 @@ class Category_24 {
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
     };
+    class 100Rnd_556x45_BetaCMagSD {
+        type = "trade_items";
+        buy[] = {8000,"worth"};
+        sell[] = {4000,"worth"};
+    };
     class 100Rnd_556x45_M249 {
         type = "trade_items";
         buy[] = {4000,"worth"};
@@ -472,10 +477,20 @@ class Category_24 {
         buy[] = {8000,"worth"};
         sell[] = {4000,"worth"};
     };
+    class 200Rnd_556x45_L110A1 {
+        type = "trade_items";
+        buy[] = {8000,"worth"};
+        sell[] = {4000,"worth"};
+    };
     class 100Rnd_762x51_M240 {
         type = "trade_items";
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
+    };
+    class 200Rnd_762x51_M240 {
+        type = "trade_items";
+        buy[] = {8000,"worth"};
+        sell[] = {4000,"worth"};
     };
     class 50Rnd_762x54_UK59 {
         type = "trade_items";
