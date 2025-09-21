@@ -2368,281 +2368,218 @@ class Category_16 {
 
 //Sniper Rifles
 class Category_17 {
+
+	class CZ550_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class M4SPR_DZE {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class M4SPR_DZ {type = "trade_weapons";buy[] = {16500,"worth"};sell[] = {8250,"worth"};};	
+	class CZ750_DZ {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
+	class M24_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class M24_Gh_DZ {type = "trade_weapons";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
+	class M24_DES_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};// desert camo
+	class M40A3_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class M40A3_Gh_DZ {type = "trade_weapons";buy[] = {25000,"worth"};sell[] = {12500,"worth"};};	
+	class SVD_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};// iron sights
+	class SVD_Gh_DZ {type = "trade_weapons";buy[] = {33000,"worth"};sell[] = {16500,"worth"};};// iron sights and ghillie
+	class SVD_PSO1_DZ {type = "trade_weapons";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
+	class SVD_PSO1_Gh_DZ {type = "trade_weapons";buy[] = {35000,"worth"};sell[] = {17500,"worth"};};
+	class SVD_PSO1_Gh_DES_DZ {type = "trade_weapons";buy[] = {35500,"worth"};sell[] = {17750,"worth"};};// desert camo
+	class SVD_NSPU_DZ {type = "trade_weapons";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
+	class SVU_PSO1_DZ {type = "trade_weapons";buy[] = {31000,"worth"};sell[] = {15500,"worth"};};
+	class RH_hk417sp {type = "trade_weapons";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
+	class RH_hk417sdsp {type = "trade_weapons";buy[] = {100000,"worth"};sell[] = {50000,"worth"};};
+
+	/*UNCOMMENT the block below to ENABLE Overwatch mod sniper rifle classes
 	class RH_sc2shd {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_sc2sp {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class vil_HK417s {
-	type = "trade_weapons";
-	buy[] = {30000,"worth"};
-sell[] = {15000,"worth"};
+		type = "trade_weapons";
+		buy[] = {30000,"worth"};
+		sell[] = {15000,"worth"};
 	};
 	class RH_sc2 {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_sc2acog {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_sc2aim {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_sc2eot {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m14 {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m14acog {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class M14_EP1 {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m14aim {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m14eot {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1s {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1sacog {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1saim {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1seot {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1sshd {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1ssp {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1stacog {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1staim {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1steot {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1stshd {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m21 {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class vil_M14G {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class vil_M21G {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1st {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class RH_m1stsp {
-	type = "trade_weapons";
-	buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
+		type = "trade_weapons";
+		buy[] = {40000,"worth"};
+		sell[] = {20000,"worth"};
 	};
 	class vil_SKS {
 		type = "trade_weapons";
 		buy[] = {140000,"worth"};
-sell[] = {70000,"worth"};
+		sell[] = {70000,"worth"};
 	};
 	class vil_SVDK {
 		type = "trade_weapons";
 		buy[] = {160000,"worth"};
-sell[] = {80000,"worth"};
+		sell[] = {80000,"worth"};
 	};
 	class vil_SVD_63 {
 		type = "trade_weapons";
 		buy[] = {100000,"worth"};
-sell[] = {50000,"worth"};
+		sell[] = {50000,"worth"};
 	};
 	class vil_SVD_M {
 		type = "trade_weapons";
 		buy[] = {120000,"worth"};
-sell[] = {60000,"worth"};
+		sell[] = {60000,"worth"};
 	};
 	class vil_SVD_N {
 		type = "trade_weapons";
 		buy[] = {140000,"worth"};
-sell[] = {70000,"worth"};
+		sell[] = {70000,"worth"};
 	};
 	class vil_SVD_P21 {
 		type = "trade_weapons";
 		buy[] = {160000,"worth"};
-sell[] = {80000,"worth"};
+		sell[] = {80000,"worth"};
 	};
 	class vil_SVD_S {
 		type = "trade_weapons";
 		buy[] = {180000,"worth"};
-sell[] = {90000,"worth"};
+		sell[] = {90000,"worth"};
 	};
 	class vil_SVU {
 		type = "trade_weapons";
 		buy[] = {180000,"worth"};
-sell[] = {90000,"worth"};
+		sell[] = {90000,"worth"};
 	};
 	class vil_SVU_A {
 		type = "trade_weapons";
 		buy[] = {180000,"worth"};
-sell[] = {90000,"worth"};
+		sell[] = {90000,"worth"};
 	};
 	class vil_M76 {
 		type = "trade_weapons";
 		buy[] = {180000,"worth"};
-sell[] = {90000,"worth"};
+		sell[] = {90000,"worth"};
 	};
 	class RH_hk417sp {
 		type = "trade_weapons";
 		buy[] = {140000,"worth"};
-sell[] = {70000,"worth"};
+		sell[] = {70000,"worth"};
 	};
-	class M4SPR_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class M14_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};
-	class M14_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};
-	class M14_CCO_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};
-	class M14_CCO_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};
-	class M14_Holo_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};
-	class M14_Holo_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {40000,"worth"};
-sell[] = {20000,"worth"};
-	};	
-	class CZ550_DZ {
-		type = "trade_weapons";
-		buy[] = {4000,"worth"};
-sell[] = {2000,"worth"};
-	};
-	class M24_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class M24_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};	
-	class M24_des_EP1 {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class M40A3_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class M40A3_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};	
-	class SVD_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class SVD_Gh_DZ {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
-	class SVD_CAMO {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};	
-	class SVD_des_EP1 {
-		type = "trade_weapons";
-		buy[] = {20000,"worth"};
-sell[] = {10000,"worth"};
-	};
+	*/
 };
 
 //Light Machine Guns
