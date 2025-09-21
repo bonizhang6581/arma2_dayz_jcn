@@ -81,6 +81,41 @@ class Category_19 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
+    class 18Rnd_9x19_Phantom {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    }; //CZ Shadow Phantom Pistol
+	class 18Rnd_9x19_PhantomSD {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
+	class 20Rnd_9x19_M93R {
+        type = "trade_items";
+        buy[] = {1200,"worth"};
+        sell[] = {600,"worth"};
+    };
+	class 32Rnd_9x19_TEC9 {
+        type = "trade_items";
+        buy[] = {1400,"worth"};
+        sell[] = {700,"worth"};
+    };
+	class 33Rnd_9x19_G18 {
+        type = "trade_items";
+        buy[] = {1800,"worth"};
+        sell[] = {900,"worth"};
+    };
+	class 15Rnd_10x22_p99 {
+        type = "trade_items";
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
+    };
+	class 15Rnd_10x22_p99_sd {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
     class 6Rnd_45ACP {
         type = "trade_items";
         buy[] = {200,"worth"};
@@ -91,7 +126,6 @@ class Category_19 {
         buy[] = {200,"worth"};
         sell[] = {100,"worth"};
     };
-   
 };
 
 //Submachine Gun Ammo
