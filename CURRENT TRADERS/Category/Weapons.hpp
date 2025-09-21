@@ -1312,12 +1312,12 @@ class Category_16 {
 	class AK74_GL_PSO1_DZ {type = "trade_weapons";buy[] = {31000,"worth"};sell[] = {15500,"worth"};};
 	class AK74_GL_Kobra_SD_DZ {type = "trade_weapons";buy[] = {23000,"worth"};sell[] = {11500,"worth"};};
 	class AK74_GL_PSO1_SD_DZ {type = "trade_weapons";buy[] = {39000,"worth"};sell[] = {19500,"worth"};};
-	class AK107_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
-	class AK107_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300,"worth"};};
-	class AK107_PSO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class AK107_GL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300,"worth"};};	
-	class AK107_GL_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {500,"worth"};};
-	class AK107_GL_PSO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};	
+	class AK107_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class AK107_Kobra_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class AK107_PSO_DZ {type = "trade_weapons";buy[] = {34000,"worth"};sell[] = {17000,"worth"};};
+	class AK107_GL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};	
+	class AK107_GL_Kobra_DZ {type = "trade_weapons";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
+	class AK107_GL_PSO_DZ {type = "trade_weapons";buy[] = {42000,"worth"};sell[] = {21000,"worth"};};	
 	class AN94_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
 	class AN94_GL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300,"worth"};};
 	class SCAR_H_AK_DZ {type = "trade_weapons";buy[] = {800,"worth"};sell[] = {400,"worth"};};
