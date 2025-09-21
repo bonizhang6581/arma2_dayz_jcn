@@ -340,6 +340,22 @@ class Category_21 {
 
 //Assault Rifle Ammo
 class Category_22 {
+
+    class 30Rnd_6x35_KAC {
+        type = "trade_items";
+        buy[] = {400,"worth"};
+        sell[] = {200,"worth"};
+    };
+	class 30Rnd_556x45_Aug {
+        type = "trade_items";
+        buy[] = {400,"worth"};
+        sell[] = {200,"worth"};
+    };
+	class 20Rnd_556x45_Stanag {
+        type = "trade_items";
+        buy[] = {360,"worth"};
+        sell[] = {180,"worth"};
+    };
     class 30Rnd_556x45_Stanag {
         type = "trade_items";
         buy[] = {400,"worth"};
