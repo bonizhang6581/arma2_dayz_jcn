@@ -386,11 +386,6 @@ class Category_22 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
-    class 20Rnd_762x51_FNFAL {
-        type = "trade_items";
-        buy[] = {2000,"worth"};
-        sell[] = {1000,"worth"};
-    };
     class 30Rnd_545x39_AK {
         type = "trade_items";
         buy[] = {200,"worth"};
@@ -401,16 +396,48 @@ class Category_22 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
+    class 60Rnd_545x39_AK_Taped {
+        type = "trade_items";
+        buy[] = {400,"worth"};
+        sell[] = {200,"worth"};
+    };
+	class 60Rnd_545x39_AKSD_Taped {
+        type = "trade_items";
+        buy[] = {4000,"worth"};
+        sell[] = {2000,"worth"};
+    };
     class 30Rnd_762x39_AK47 {
         type = "trade_items";
         buy[] = {200,"worth"};
         sell[] = {100,"worth"};
+    };
+    class 60Rnd_762x39_AK47_Taped {
+        type = "trade_items";
+        buy[] = {400,"worth"};
+        sell[] = {200,"worth"};
     };
     class 30Rnd_762x39_SA58 {
         type = "trade_items";
         buy[] = {200,"worth"};
         sell[] = {100,"worth"};
     };
+    class 30Rnd_762x39_RK95 {type = "trade_items";buy[] = {800,"worth"};sell[] = {400,"worth"};};
+	class 30Rnd_762x39_RK95SD {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class 30Rnd_762x39_Groza1 {type = "trade_items";buy[] = {800,"worth"};sell[] = {400,"worth"};};
+	class 30Rnd_762x39_Groza1SD {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class 20Rnd_9x39_Groza9 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class 20Rnd_9x39_Groza9SD {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_9x39_SP5_VSS {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};	
+	class 20Rnd_762x51_FNFAL {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class 20Rnd_762x51_G3 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class ACR_30Rnd_680x43 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class ACR_30Rnd_680x43_SD {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
+	class 20Rnd_762x51_DMRSD {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};
+	class 20Rnd_762x51_B_SCAR {type = "trade_items";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
+	class 20Rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class 20Rnd_762x51_HK417 {type = "trade_items";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
+	class 20Rnd_762x51_HK417SD {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};
 };
 
 //Sniper Rifle Ammo
