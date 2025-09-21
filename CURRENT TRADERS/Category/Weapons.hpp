@@ -1318,8 +1318,8 @@ class Category_16 {
 	class AK107_GL_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};	
 	class AK107_GL_Kobra_DZ {type = "trade_weapons";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
 	class AK107_GL_PSO_DZ {type = "trade_weapons";buy[] = {42000,"worth"};sell[] = {21000,"worth"};};	
-	class AN94_DZ {type = "trade_weapons";buy[] = {200,"worth"};sell[] = {100,"worth"};};
-	class AN94_GL_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {300,"worth"};};
+	class AN94_DZ {type = "trade_weapons";buy[] = {12500,"worth"};sell[] = {6250,"worth"};};
+	class AN94_GL_DZ {type = "trade_weapons";buy[] = {20500,"worth"};sell[] = {10250,"worth"};};
 	class SCAR_H_AK_DZ {type = "trade_weapons";buy[] = {800,"worth"};sell[] = {400,"worth"};};
 	class SCAR_H_AK_CCO_DZ {type = "trade_weapons";buy[] = {-8,"worth"};sell[] = {600,"worth"};};
 	class SCAR_H_AK_HOLO_DZ {type = "trade_weapons";buy[] = {-8,"worth"};sell[] = {600,"worth"};};
