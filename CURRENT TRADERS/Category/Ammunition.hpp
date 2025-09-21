@@ -1,5 +1,6 @@
 //Pistol Ammo
 class Category_19 {
+
     class 15Rnd_9x19_M9 {
         type = "trade_items";
         buy[] = {1000,"worth"};
@@ -40,6 +41,7 @@ class Category_19 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
+    /*UNCOMMENT the block below to Enable OVERWATCH Pistol Ammo
     class vil_bhp_mag {
         type = "trade_items";
         buy[] = {5000,"worth"};
@@ -150,8 +152,10 @@ class Category_19 {
         buy[] = {6000,"worth"};
         sell[] = {3000,"worth"};
     };
+    */
 };
 
+//Submachine Gun Ammo
 class Category_20 {
     class 20Rnd_B_765x17_Ball {
         type = "trade_items";
@@ -188,7 +192,13 @@ class Category_20 {
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
-    class vil_32Rnd_uzi {
+    class 20Rnd_9x39_SP5_VSS {
+        type = "trade_items";
+        buy[] = {5000,"worth"};
+        sell[] = {2500,"worth"};
+    };
+    /*UNCOMMENT the block below to Enable OVERWATCH Submachine Gun Ammo
+     class vil_32Rnd_uzi {
         type = "trade_items";
         buy[] = {6000,"worth"};
         sell[] = {3000,"worth"};
@@ -228,14 +238,11 @@ class Category_20 {
         buy[] = {5000,"worth"};
         sell[] = {2500,"worth"};
     };
-    class 20Rnd_9x39_SP5_VSS {
-        type = "trade_items";
-        buy[] = {5000,"worth"};
-        sell[] = {2500,"worth"};
-    };
+    */
 };
 
-class Category_21 { 
+//Single-shot/Shotgun Ammo
+class Category_21 {
 	class 20Rnd_B_AA12_74Slug {
         type = "trade_items";
         buy[] = {2000,"worth"};
@@ -296,13 +303,16 @@ class Category_21 {
         buy[] = {600,"worth"};
         sell[] = {300,"worth"};
     };
+    /*UNCOMMENT the block below to Enable Global Military System(GMS) Kar98 mag class
     class gms_k98_mag {
         type = "trade_items";
         buy[] = {600,"worth"};
         sell[] = {300,"worth"};
     };
+    */
 };
 
+//Assault Rifle Ammo
 class Category_22 {
     class 30Rnd_556x45_Stanag {
         type = "trade_items";
@@ -344,6 +354,13 @@ class Category_22 {
         buy[] = {200,"worth"};
         sell[] = {100,"worth"};
     };
+    class 30Rnd_762x39_SA58 {
+        type = "trade_items";
+        buy[] = {200,"worth"};
+        sell[] = {100,"worth"};
+    };
+
+        /*UNCOMMENT the block below to Enable OVERWATCH Assault Rifle Ammo
     class vil_40Rnd_762x39_AK47 {
         type = "trade_items";
         buy[] = {1000,"worth"};
@@ -364,18 +381,15 @@ class Category_22 {
         buy[] = {1000,"worth"};
         sell[] = {500,"worth"};
     };
-    class 30Rnd_762x39_SA58 {
-        type = "trade_items";
-        buy[] = {200,"worth"};
-        sell[] = {100,"worth"};
-    };
     class vil_10Rnd_762x39_SKS {
         type = "trade_items";
         buy[] = {1000,"worth"};
         sell[] = {500,"worth"};
     };
+    */
 };
 
+//Sniper Rifle Ammo
 class Category_23 {
     class 5Rnd_17HMR {
         type = "trade_items";
@@ -392,17 +406,23 @@ class Category_23 {
         buy[] = {6000,"worth"};
         sell[] = {3000,"worth"};
     };
-    class vil_20Rnd_762x51_G3 {
-        type = "trade_items";
-        buy[] = {1000,"worth"};
-        sell[] = {500,"worth"};
-    };
     class 10Rnd_762x54_SVD {
         type = "trade_items";
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
     };
-    class vil_10Rnd_Mauser {
+    class 20rnd_762x51_B_SCAR {
+        type = "trade_items";
+        buy[] = {10000,"worth"};
+        sell[] = {5000,"worth"};
+    };
+    class 20Rnd_762x51_SB_SCAR {
+        type = "trade_items";
+        buy[] = {10000,"worth"};
+        sell[] = {5000,"worth"};
+    };
+    /*UNCOMMENT the block below to Enable OVERWATCH Sniper Rifle Ammo
+        class vil_10Rnd_Mauser {
         type = "trade_items";
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
@@ -427,18 +447,15 @@ class Category_23 {
         buy[] = {7000,"worth"};
         sell[] = {3500,"worth"};
     };
-    class 20rnd_762x51_B_SCAR {
+        class vil_20Rnd_762x51_G3 {
         type = "trade_items";
-        buy[] = {10000,"worth"};
-        sell[] = {5000,"worth"};
+        buy[] = {1000,"worth"};
+        sell[] = {500,"worth"};
     };
-    class 20Rnd_762x51_SB_SCAR {
-        type = "trade_items";
-        buy[] = {10000,"worth"};
-        sell[] = {5000,"worth"};
-    };
+    */
 };
 
+//Light Machine Gun Ammo
 class Category_24 {
     class 100Rnd_556x45_BetaCMag {
         type = "trade_items";
@@ -480,7 +497,8 @@ class Category_24 {
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
     };
-    class vil_75Rnd_762x39_AK47 {
+    /*UNCOMMENT the block below to Enable OVERWATCH Light Machine Gun Ammo
+        class vil_75Rnd_762x39_AK47 {
         type = "trade_items";
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
@@ -505,6 +523,7 @@ class Category_24 {
         buy[] = {4000,"worth"};
         sell[] = {2000,"worth"};
     };
+    */
 };
 
 //Smoke Grenades
