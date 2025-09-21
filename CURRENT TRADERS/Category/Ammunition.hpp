@@ -1,6 +1,21 @@
 //Pistol Ammo
 class Category_19 {
 
+    class 7Rnd_9x17_PPK {
+        type = "trade_items";
+        buy[] = {200,"worth"};
+        sell[] = {100,"worth"};
+    };
+    class 8Rnd_9x18_Makarov {
+        type = "trade_items";
+        buy[] = {200,"worth"};
+        sell[] = {100,"worth"};
+    };
+    class 8Rnd_9x18_MakarovSD {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };
     class 15Rnd_9x19_M9 {
         type = "trade_items";
         buy[] = {1000,"worth"};
@@ -31,16 +46,7 @@ class Category_19 {
         buy[] = {200,"worth"};
         sell[] = {100,"worth"};
     };
-    class 8Rnd_9x18_Makarov {
-        type = "trade_items";
-        buy[] = {200,"worth"};
-        sell[] = {100,"worth"};
-    };
-    class 8Rnd_9x18_MakarovSD {
-        type = "trade_items";
-        buy[] = {2000,"worth"};
-        sell[] = {1000,"worth"};
-    };
+   
 };
 
 //Submachine Gun Ammo
