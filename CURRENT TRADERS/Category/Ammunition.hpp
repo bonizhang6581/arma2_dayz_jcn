@@ -270,11 +270,7 @@ class Category_20 {
 
 //Single-shot/Shotgun Ammo
 class Category_21 {
-	class 20Rnd_B_AA12_74Slug {
-        type = "trade_items";
-        buy[] = {2000,"worth"};
-        sell[] = {1000,"worth"};
-    };
+
 	class 20Rnd_B_AA12_Pellets {
         type = "trade_items";
         buy[] = {2500,"worth"};
@@ -289,6 +285,11 @@ class Category_21 {
         type = "trade_items";
         buy[] = {1200,"worth"};
         sell[] = {600,"worth"};
+    };
+    class 350Rnd_BB_GUN {
+        type = "trade_items";
+        buy[] = {600,"worth"};
+        sell[] = {300,"worth"};
     };
     class 350Rnd_BB_Magazine {
         type = "trade_items";
@@ -330,6 +331,11 @@ class Category_21 {
         buy[] = {600,"worth"};
         sell[] = {300,"worth"};
     };
+    class 20Rnd_B_AA12_74Slug {
+        type = "trade_items";
+        buy[] = {2000,"worth"};
+        sell[] = {1000,"worth"};
+    };//Epoch Box Magazine
 };
 
 //Assault Rifle Ammo
