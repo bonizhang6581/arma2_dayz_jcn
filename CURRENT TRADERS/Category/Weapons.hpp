@@ -2585,39 +2585,39 @@ class Category_17 {
 //Light Machine Guns
 class Category_18 {
 
-	class RPK74_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
-	class RPK74_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class RPK74_PSO1_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {900,"worth"};};
-	class RPK_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
-	class RPK_Kobra_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class RPK_PSO1_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1400,"worth"};};
-	class UK59_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
-	class PKM_DZ {type = "trade_weapons";buy[] = {3000,"worth"};sell[] = {1000,"worth"};};	
-	class XM8_SAW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};
-	class XM8_DES_SAW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};
-	class XM8_GREY_SAW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};
-	class L86A2_LSW_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
-	class MG36_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};
-	class MG36_Camo_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};	
-	class L110A1_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
-	class L110A1_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class L110A1_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class BAF_L110A1_Aim_DZE {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {700,"worth"};};
-	class M249_EP1_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};	
-	class M249_DZ {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {600,"worth"};};
-	class M249_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {800,"worth"};};
-	class M249_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {800,"worth"};};
-	class M60A4_EP1_DZE {type = "trade_weapons";buy[] = {1000,"worth"};sell[] = {500,"worth"};};
-	class Mk43_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1000,"worth"};};
-	class MK43_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class MK43_ACOG_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1400,"worth"};};
+	class RPK74_DZ {type = "trade_weapons";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
+	class RPK74_Kobra_DZ {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class RPK74_PSO1_DZ {type = "trade_weapons";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
+	class RPK_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
+	class RPK_Kobra_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class RPK_PSO1_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
+	class UK59_DZ {type = "trade_weapons";buy[] = {9500,"worth"};sell[] = {4750,"worth"};};
+	class PKM_DZ {type = "trade_weapons";buy[] = {15000,"worth"};sell[] = {7500,"worth"};};	
+	class XM8_SAW_DZ {type = "trade_weapons";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class XM8_DES_SAW_DZ {type = "trade_weapons";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class XM8_GREY_SAW_DZ {type = "trade_weapons";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class L86A2_LSW_DZ {type = "trade_weapons";buy[] = {13000,"worth"};sell[] = {6500,"worth"};};
+	class MG36_DZ {type = "trade_weapons";buy[] = {11000,"worth"};sell[] = {5500,"worth"};};
+	class MG36_Camo_DZ {type = "trade_weapons";buy[] = {11000,"worth"};sell[] = {5500,"worth"};};	
+	class L110A1_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
+	class L110A1_CCO_DZ {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
+	class L110A1_Holo_DZ {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
+	class BAF_L110A1_Aim_DZE {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
+	class M249_EP1_DZ {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};	
+	class M249_DZ {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class M249_CCO_DZ {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class M249_Holo_DZ {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class M60A4_EP1_DZE {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class Mk43_DZ {type = "trade_weapons";buy[] = {18000,"worth"};sell[] = {9000,"worth"};};
+	class MK43_Holo_DZ {type = "trade_weapons";buy[] = {26000,"worth"};sell[] = {13000,"worth"};};
+	class MK43_ACOG_DZ {type = "trade_weapons";buy[] = {34000,"worth"};sell[] = {17000,"worth"};};
 	class M240_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
-	class M240_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class M240_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class Mk48_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1000,"worth"};};
-	class Mk48_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class Mk48_Holo_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
-	class Mk48_DES_CCO_DZ {type = "trade_weapons";buy[] = {-1,"worth"};sell[] = {1200,"worth"};};
+	class M240_CCO_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class M240_Holo_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};
+	class Mk48_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class Mk48_CCO_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};
+	class Mk48_Holo_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};
+	class Mk48_DES_CCO_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};
 
 	/*/*UNCOMMENT the block below to ENABLE Overwatch mod LMG classes
 	class vil_M240_B {
