@@ -335,7 +335,7 @@ class Category_21 {
         type = "trade_items";
         buy[] = {2000,"worth"};
         sell[] = {1000,"worth"};
-    };//Epoch Box Magazine
+    };
 };
 
 //Assault Rifle Ammo
