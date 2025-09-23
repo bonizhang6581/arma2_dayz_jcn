@@ -77,7 +77,7 @@ class Category_3 {
     class vil_SR25SD {type = "trade_weapons";buy[] = {121500,"worth"};sell[] = {60750,"worth"};};
     class USSR_cheytacM200 {type = "trade_weapons";buy[] = {1012500,"worth"};sell[] = {270000,"worth"};};
     class USSR_cheytacM200_sd {type = "trade_weapons";buy[] = {1350000,"worth"};sell[] = {337500,"worth"};};
-    
+
     //WeaponZ
     class FN_FAL_ANPVS4_DZE {type = "trade_weapons";buy[] = {108000,"worth"};sell[] = {54000,"worth"};};
     class M249_m145_EP1_DZE {type = "trade_weapons";buy[] = {81000,"worth"};sell[] = {54000,"worth"};};
@@ -124,9 +124,9 @@ class Category_4 {
    //Overwatch Ammo
     class 20Rnd_9x39_SP5_VSS {type = "trade_items";buy[] = {2700,"worth"};sell[] = {1350,"worth"};};
     class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {3240,"worth"};sell[] = {1620,"worth"};};
-    class vil_10Rnd_762x54_SV {type = "trade_items";buy[] = {5400,"worth"};sell[] = {2700,"worth"};};
+    class vil_10Rnd_762x54_SV {type = "trade_items";buy[] = {5400,"worth"};sell[] = {2700,"worth"};};//sv98 ammo
     class USSR_5Rnd_408 {type = "trade_items";buy[] = {40500,"worth"};sell[] = {6750,"worth"};};
-    
+
     //Epoch Ammo
     class 30Rnd_556x45_StanagSD {type = "trade_items";buy[] = {675,"worth"};sell[] = {338,"worth"};};
     class 6Rnd_762x51_WA2000 {type = "trade_items";buy[] = {2025,"worth"};sell[] = {1013,"worth"};};
@@ -143,8 +143,8 @@ class Category_4 {
     class 10Rnd_86x70_MRAD {type = "trade_items";buy[] = {10800,"worth"};sell[] = {5400,"worth"};};	
     class 10Rnd_127x99_m107 {type = "trade_items";buy[] = {10800,"worth"};sell[] = {5400,"worth"};};
     class 3rnd_Anzio_20x102mm {type = "trade_items";buy[] = {20250,"worth"};sell[] = {10125,"worth"};};
-    class 5Rnd_127x99_as50 {type = "trade_items";buy[] = {-40000,"worth"};sell[] = {10000,"worth"};};
-    class 5Rnd_127x99_as50_CP {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};
+    class 5Rnd_127x99_as50 {type = "trade_items";buy[] = {40000,"worth"};sell[] = {10000,"worth"};};//full metal jacket
+    class 5Rnd_127x99_as50_CP {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};//armor-piercing
     class 5Rnd_127x108_KSVK {type = "trade_items";buy[] = {5400,"worth"};sell[] = {2700,"worth"};};
     class 5Rnd_408_CheyTac {type = "trade_items";buy[] = {12150,"worth"};sell[] = {6075,"worth"};};
     class 5Rnd_408_CheyTac_SD {type = "trade_items";buy[] = {16200,"worth"};sell[] = {8100,"worth"};};
@@ -152,7 +152,6 @@ class Category_4 {
     class 100Rnd_762x51_M240 {type = "trade_items";buy[] = {1350,"worth"};sell[] = {675,"worth"};};
     class 100Rnd_762x54_PK {type = "trade_items";buy[] = {1350,"worth"};sell[] = {675,"worth"};};
 };
-
 
 //Clothes
 class Category_5 {
