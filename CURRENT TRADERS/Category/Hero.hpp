@@ -102,8 +102,8 @@ class Category_3 {
     class XM2010_SD_DZ {type = "trade_weapons";buy[] = {472500,"worth"};sell[] = {236250,"worth"};};
     class XM2010_NV_DZ {type = "trade_weapons";buy[] = {297000,"worth"};sell[] = {148500,"worth"};};
     class XM2010_NV_SD_DZ {type = "trade_weapons";buy[] = {540000,"worth"};sell[] = {270000,"worth"};};	
-    class BAF_LRR_scoped {type = "trade_weapons";buy[] = {270000,"worth"};sell[] = {135000,"worth"};};
-    class BAF_LRR_scoped_W {type = "trade_weapons";buy[] = {270000,"worth"};sell[] = {135000,"worth"};};
+    class BAF_LRR_scoped {type = "trade_weapons";buy[] = {270000,"worth"};sell[] = {135000,"worth"};};//tan
+    class BAF_LRR_scoped_W {type = "trade_weapons";buy[] = {270000,"worth"};sell[] = {135000,"worth"};};//woodland
     class MSR_DZ {type = "trade_weapons";buy[] = {405000,"worth"};sell[] = {202500,"worth"};};	
     class MSR_SD_DZ {type = "trade_weapons";buy[] = {540000,"worth"};sell[] = {270000,"worth"};};
     class MSR_NV_DZ {type = "trade_weapons";buy[] = {472500,"worth"};sell[] = {236250,"worth"};};
