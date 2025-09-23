@@ -565,7 +565,6 @@ class Category_14 {
 		buy[] = {2000,"worth"};
 		sell[] = {1000,"worth"};
 	};
-
 	//24 MP7 Classes
 	class MP7_DZ {type = "trade_weapons";buy[] = {2000,"worth"};sell[] = {1000,"worth"};};
 	class MP7_FL_DZ {type = "trade_weapons";buy[] = {10000,"worth"};sell[] = {5000,"worth"};};
@@ -1110,6 +1109,27 @@ class Category_16 {
 	class ACR_SNOW_NV_GL_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
 	class ACR_SNOW_NV_SD_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
 	class ACR_SNOW_NV_GL_SD_DZ {type = "trade_weapons";buy[] = {14000,"worth"};sell[] = {7000,"worth"};};
+};
+
+//Sniper Rifles
+class Category_17 {
+
+	class CZ550_DZ {type = "trade_weapons";buy[] = {9000,"worth"};sell[] = {4500,"worth"};};
+	class M4SPR_DZE {type = "trade_weapons";buy[] = {16000,"worth"};sell[] = {8000,"worth"};};
+	class M4SPR_DZ {type = "trade_weapons";buy[] = {16500,"worth"};sell[] = {8250,"worth"};};	
+	class CZ750_DZ {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
+	class M24_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
+	class M24_Gh_DZ {type = "trade_weapons";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
+	class M24_DES_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};// desert camo
+	class M40A3_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class M40A3_Gh_DZ {type = "trade_weapons";buy[] = {25000,"worth"};sell[] = {12500,"worth"};};	
+	class SVD_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};// iron sights
+	class SVD_Gh_DZ {type = "trade_weapons";buy[] = {33000,"worth"};sell[] = {16500,"worth"};};// iron sights and ghillie
+	class SVD_PSO1_DZ {type = "trade_weapons";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
+	class SVD_PSO1_Gh_DZ {type = "trade_weapons";buy[] = {35000,"worth"};sell[] = {17500,"worth"};};
+	class SVD_PSO1_Gh_DES_DZ {type = "trade_weapons";buy[] = {35500,"worth"};sell[] = {17750,"worth"};};// desert camo
+	class SVD_NSPU_DZ {type = "trade_weapons";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
+	class SVU_PSO1_DZ {type = "trade_weapons";buy[] = {31000,"worth"};sell[] = {15500,"worth"};};
 };
 
 //Light Machine Guns
