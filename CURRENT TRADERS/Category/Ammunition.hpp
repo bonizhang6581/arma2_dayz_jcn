@@ -432,27 +432,30 @@ class Category_22 {
 	class 20Rnd_762x51_G3 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
 	class ACR_30Rnd_680x43 {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
 	class ACR_30Rnd_680x43_SD {type = "trade_items";buy[] = {8000,"worth"};sell[] = {4000,"worth"};};
-	class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
-	class 20Rnd_762x51_DMRSD {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};
-	class 20Rnd_762x51_B_SCAR {type = "trade_items";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
-	class 20Rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
-	class 20Rnd_762x51_HK417 {type = "trade_items";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
-	class 20Rnd_762x51_HK417SD {type = "trade_items";buy[] = {40000,"worth"};sell[] = {20000,"worth"};};
+	class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_DMRSD {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class 20Rnd_762x51_B_SCAR {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class 20Rnd_762x51_HK417 {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_HK417SD {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
 };
 
 //Sniper Rifle Ammo
 class Category_23 {
 
-    class 5x_22_LR_17_HMR {type = "trade_items";buy[] = {100,"worth"};sell[] = {50,"worth"};};
-	class 5Rnd_17HMR {type = "trade_items";buy[] = {100,"worth"};sell[] = {50,"worth"};};
+    class 5x_22_LR_17_HMR {type = "trade_items";buy[] = {500,"worth"};sell[] = {250,"worth"};};
+	class 5Rnd_17HMR {type = "trade_items";buy[] = {500,"worth"};sell[] = {250,"worth"};};
 	class 10Rnd_9x39_SP5_VSS {type = "trade_items";buy[] = {6000,"worth"};sell[] = {3000,"worth"};};	
 	class 20Rnd_9x39_SP5_VSS {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};	
 	class 10Rnd_762x54_SVD {type = "trade_items";buy[] = {5000,"worth"};sell[] = {2500,"worth"};};
 	class 5Rnd_762x51_M24 {type = "trade_items";buy[] = {2500,"worth"};sell[] = {1250,"worth"};};
 	class 10Rnd_762x51_CZ750 {type = "trade_items";buy[] = {5000,"worth"};sell[] = {5000,"worth"};};
-	class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
-	class 20Rnd_762x51_B_SCAR {type = "trade_items";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
-	class 20Rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {4000,"worth"};sell[] = {2000,"worth"};};
+	class 20Rnd_762x51_DMR {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_DMRSD {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class 20Rnd_762x51_B_SCAR {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_SB_SCAR {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
+	class 20Rnd_762x51_HK417 {type = "trade_items";buy[] = {12000,"worth"};sell[] = {6000,"worth"};};
+	class 20Rnd_762x51_HK417SD {type = "trade_items";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
 };
 
 //Light Machine Gun Ammo
