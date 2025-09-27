@@ -1,5 +1,5 @@
 //Attachments
-class Category_12 { 
+class Category_12 {
 
 	class Attachment_BELT {
 		type = "trade_items";
@@ -52,7 +52,7 @@ class Category_12 {
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
-	// Added back: mil
+	//Added back: mil
 	class Attachment_MFL_Pist {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -65,7 +65,7 @@ class Category_12 {
 		buy[] = {4000,"worth"};
 		sell[] = {2000,"worth"};
 	};
-	// Added back: mil
+	//Added back: mil
 	class Attachment_MFL {
 		type = "trade_items";
 		buy[] = {4000,"worth"};
@@ -119,7 +119,7 @@ class Category_12 {
 		sell[] = {9000,"worth"};
 	};
 
-	// Suppressors
+	//Suppressors
 	class Attachment_Sup9 {
 		type = "trade_items";
 		buy[] = {8000,"worth"};
@@ -262,7 +262,7 @@ class Category_13 {
 		sell[] = {5000,"worth"};
 	};
 
-	// USPs. Added back: Epoch default, sd
+	//USPs. Added back: Epoch default, sd
 	class USP_DZ {
 		type = "trade_weapons";
 		buy[] = {2000,"worth"};
@@ -411,7 +411,7 @@ class Category_13 {
 		buy[] = {2000,"worth"};
 		sell[] = {1000,"worth"};
 	};
-	// Added back: fl_dz, mfl_dz, sd_dz, sd_fl, sd_mfl, g18 
+	//Added back: fl_dz, mfl_dz, sd_dz, sd_fl, sd_mfl, g18 
 	class G17_FL_DZ {
 		type = "trade_weapons";
 		buy[] = {6000,"worth"};
@@ -1120,14 +1120,14 @@ class Category_17 {
 	class CZ750_DZ {type = "trade_weapons";buy[] = {22000,"worth"};sell[] = {11000,"worth"};};
 	class M24_DZ {type = "trade_weapons";buy[] = {19000,"worth"};sell[] = {9500,"worth"};};
 	class M24_Gh_DZ {type = "trade_weapons";buy[] = {24000,"worth"};sell[] = {12000,"worth"};};
-	class M24_DES_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};// desert camo
+	class M24_DES_DZ {type = "trade_weapons";buy[] = {19500,"worth"};sell[] = {9750,"worth"};};//desert camo
 	class M40A3_DZ {type = "trade_weapons";buy[] = {20000,"worth"};sell[] = {10000,"worth"};};
 	class M40A3_Gh_DZ {type = "trade_weapons";buy[] = {25000,"worth"};sell[] = {12500,"worth"};};	
-	class SVD_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};// iron sights
-	class SVD_Gh_DZ {type = "trade_weapons";buy[] = {33000,"worth"};sell[] = {16500,"worth"};};// iron sights and ghillie
+	class SVD_DZ {type = "trade_weapons";buy[] = {28000,"worth"};sell[] = {14000,"worth"};};//iron sights
+	class SVD_Gh_DZ {type = "trade_weapons";buy[] = {33000,"worth"};sell[] = {16500,"worth"};};//iron sights and ghillie
 	class SVD_PSO1_DZ {type = "trade_weapons";buy[] = {30000,"worth"};sell[] = {15000,"worth"};};
 	class SVD_PSO1_Gh_DZ {type = "trade_weapons";buy[] = {35000,"worth"};sell[] = {17500,"worth"};};
-	class SVD_PSO1_Gh_DES_DZ {type = "trade_weapons";buy[] = {35500,"worth"};sell[] = {17750,"worth"};};// desert camo
+	class SVD_PSO1_Gh_DES_DZ {type = "trade_weapons";buy[] = {35500,"worth"};sell[] = {17750,"worth"};};//desert camo
 	class SVD_NSPU_DZ {type = "trade_weapons";buy[] = {32000,"worth"};sell[] = {16000,"worth"};};
 	class SVU_PSO1_DZ {type = "trade_weapons";buy[] = {31000,"worth"};sell[] = {15500,"worth"};};
 };
